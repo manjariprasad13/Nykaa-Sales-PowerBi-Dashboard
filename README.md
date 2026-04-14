@@ -1,5 +1,9 @@
 # Nykaa Sales Power BI Dashboard 📊
 
+## Files Included
+- Nykaa Sales Dataset
+- Power BI Dashboard
+
 ## Project Overview
 This project presents an interactive PowerBI dashboard built to analyze Nykaa sales data. It focuses on key business metrics such as sales performance, customer behavior, brand trends, and geographic distribution.
 
@@ -25,10 +29,6 @@ This project presents an interactive PowerBI dashboard built to analyze Nykaa sa
 ## Dashboard Preview
 ![Dashboard](sales_powerbi_dashboard/Screenshot%20(263).png)
 ![Dashboard](sales_powerbi_dashboard/Screenshot%20(271).png)
-
-## Files Included
-- Power BI Dashboard 
-- Dataset
 
 ## Conclusion
 The dashboard provides meaningful insights into sales trends and customer behavior. It helps in identifying growth opportunities through better marketing strategies, improved customer experience, and regional expansion.
