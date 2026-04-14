@@ -24,9 +24,12 @@ This project presents an interactive PowerBI dashboard built to analyze Nykaa sa
 - Data Analysis
 
 ## Files Included
-- Power BI Dashboard (.pbix file)
-- Dataset (if included)
-- Project documentation
+- Power BI Dashboard 
+- Dataset
+
+## Dashboard Preview
+![Dashboard]
+(sales_powerbi_dashboard/Screenshot(272).png)
 
 ## Conclusion
 The dashboard provides meaningful insights into sales trends and customer behavior. It helps in identifying growth opportunities through better marketing strategies, improved customer experience, and regional expansion.
