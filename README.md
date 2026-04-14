@@ -24,6 +24,7 @@ This project presents an interactive PowerBI dashboard built to analyze Nykaa sa
 - Data Analysis
 ## Dashboard Preview
 ![Dashboard](sales_powerbi_dashboard/Screenshot%20(263).png)
+![Dashboard](sales_powerbi_dashboard/Screenshot%20(271).png)
 
 ## Files Included
 - Power BI Dashboard 
