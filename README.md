@@ -27,8 +27,8 @@ This project presents an interactive PowerBI dashboard built to analyze Nykaa sa
 - Data Visualization
 - Data Analysis
 ## Dashboard Preview
-![Dashboard](sales_powerbi_dashboard/Screenshot%20(263).png)
-![Dashboard](sales_powerbi_dashboard/Screenshot%20(271).png)
+![Dashboard](sales_powerbi_dashboard/june_dashboard.png)
+![Dashboard](sales_powerbi_dashboard/august_dashboard.png)
 
 ## Conclusion
 The dashboard provides meaningful insights into sales trends and customer behavior. It helps in identifying growth opportunities through better marketing strategies, improved customer experience, and regional expansion.
