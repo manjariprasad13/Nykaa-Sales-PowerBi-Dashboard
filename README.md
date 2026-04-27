@@ -26,8 +26,12 @@ This project presents an interactive PowerBI dashboard built to analyze Nykaa sa
 - DAX (Measures)
 - Data Visualization
 - Data Analysis
+ 
 ## Dashboard Preview
+### June Dashboard
 ![Dashboard](sales_powerbi_dashboard/june_dashboard.png)
+
+### August Dashboard
 ![Dashboard](sales_powerbi_dashboard/august_dashboard.png)
 
 ## Conclusion
